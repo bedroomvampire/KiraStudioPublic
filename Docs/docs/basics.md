@@ -47,3 +47,7 @@ The main window is composed of a few main controls:
     ![](images/MainWindowMobile.png#center)
 === "Tablet"
     ![](images/MainWindowMobile.png#center)
+
+> TODO : Mention text editing on desktop somewhere.
+
+> TODO : Talk about sliders here, desktop + mobile
