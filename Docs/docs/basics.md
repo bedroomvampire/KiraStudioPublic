@@ -51,3 +51,5 @@ The main window is composed of a few main controls:
 > TODO : Mention text editing on desktop somewhere.
 
 > TODO : Talk about sliders here, desktop + mobile
+
+> TODO : Undo redo, autosaves, etc.

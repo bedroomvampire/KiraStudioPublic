@@ -70,7 +70,7 @@ These parameters are explained more in depth in the [project explorer](instrumen
 
 ## Mixer view
 
-A much more efficient way to change the volume, pan and send effect chain of a channel is simply to open the **Mixer View**. This is done by checking the option from **View** section of the floating toolbar on the top right of the sequencer. 
+A much more efficient way to change the volume, balance and send effect chain of a channel is simply to open the **Mixer View**. This is done by checking the option from **View** section of the floating toolbar on the top right of the sequencer. 
 
 ![](images/MixerView.png#center)
 
